@@ -1,3 +1,12 @@
+:root {
+  --bg: #F7F6F2;
+  --text: #111111;
+  --muted: #6B6B6B;
+  --dark: #151515;
+  --accent: #2457D6;
+  --border: #E2E0DA;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -9,8 +18,8 @@ html {
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background: #f7f7f5;
-  color: #151515;
+  background: var(--bg);
+  color: var(--text);
 }
 
 a {
