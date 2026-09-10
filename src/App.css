@@ -95,7 +95,8 @@ a {
 
 .hero h1 span {
   display: block;
-  opacity: 0.45;
+  color: var(--accent);
+  opacity: 1;
 }
 
 .hero-text {
