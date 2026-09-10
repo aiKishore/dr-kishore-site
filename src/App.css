@@ -182,16 +182,16 @@ a {
 /* Dark sections */
 
 .dark-section {
-  background: #111;
-  color: white;
+  background: var(--dark);
+  color: #ffffff;
 }
 
 .dark-section .section-label {
-  color: #aaa;
+  color: #AEB9C5;
 }
 
 .dark-section .section-text {
-  color: #aaa;
+  color: #D3DAE1;
 }
 
 /* Ideas */
