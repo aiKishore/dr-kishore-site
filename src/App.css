@@ -186,6 +186,12 @@ a {
   color: #ffffff;
 }
 
+.dark-section h1,
+.dark-section h2,
+.dark-section h3 {
+  color: #ffffff;
+}
+
 .dark-section .section-label {
   color: #AEB9C5;
 }
