@@ -210,7 +210,8 @@ a {
 }
 
 .idea-card {
-  border: 1px solid #333;
+  background: #243B53;
+  border: 1px solid #3A526A;
   padding: 35px;
   min-height: 280px;
 }
