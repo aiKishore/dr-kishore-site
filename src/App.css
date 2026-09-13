@@ -186,6 +186,17 @@ a {
   color: #ffffff;
 }
 
+.thinking-section {
+  background: #EAF1F8;
+  color: #17212B;
+}
+
+.thinking-section h1,
+.thinking-section h2,
+.thinking-section h3 {
+  color: #17212B;
+}
+
 .dark-section h1,
 .dark-section h2,
 .dark-section h3 {
