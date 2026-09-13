@@ -72,7 +72,7 @@ function App() {
       </section>
 
       {/* Thinking */}
-      <section id="thinking" className="section dark-section">
+      <section id="thinking" className="section thinking-section">
         <p className="section-label">02 — THINKING</p>
 
         <h2>Ideas I am currently obsessed with.</h2>
